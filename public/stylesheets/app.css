@@ -1,0 +1,12 @@
+icon {
+	font-size: 2em;
+}
+
+/* something with both classes */
+.container.main {
+	margin: 7em;
+}
+
+#delete {
+	display: inline;
+}
